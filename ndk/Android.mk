@@ -1,4 +1,5 @@
-# Please this file empty. It is used to make the Android build system happy.
+#
+# This file is (otherwise) empty to deliberately prevent the build system
+# from building the NDK tests below this point...
+#
 
-include development/ndk/sources/android/libportable/Android.mk
-include development/ndk/sources/android/native_app_glue/Android.mk
